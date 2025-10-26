@@ -1,0 +1,5 @@
+{
+  "name": "Gold and Silver Price Tracker",
+  "description": "A sleek and modern web application to track the latest prices of gold and silver using real-time data powered by Gemini.",
+  "requestFramePermissions": []
+}
